@@ -1,4 +1,4 @@
-<img src="./logotipo.png" width="70" height="90">
+<img src="../logotipo.png" width="70" height="90">
 
 Este projeto de Trabalho de Conclusão de Curso (TCC) é dedicado ao desenvolvimento de uma aplicação inovadora que tem como objetivo principal transcrever a Língua Brasileira de Sinais (Libras) para texto escrito.
 
